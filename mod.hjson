@@ -1,0 +1,8 @@
+name: "ponrouter"
+displayName: ":ponrouter:"
+author: "Vladislav117"
+description: ""
+version: 1.0
+minGameVersion: 146
+dependencies: [ ]
+hidden: true
